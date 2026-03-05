@@ -4,6 +4,8 @@ A SQL-based data analysis project using a relational database of a scale model c
 
 ---
 
+![Infographic: Design Overview](Overview.jpeg) 
+
 ## Database Overview
 
 **File:** `stores.db` (SQLite) — 8 tables, ~4,100 rows total.
